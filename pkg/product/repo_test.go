@@ -1,4 +1,4 @@
-package product_test // Adjust the package name as needed
+package product_test
 
 import (
 	"context"
