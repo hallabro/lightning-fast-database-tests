@@ -5,7 +5,7 @@ go 1.25.0
 require (
 	github.com/golang-migrate/migrate/v4 v4.18.2
 	github.com/google/go-cmp v0.6.0
-	github.com/jackc/pgx/v5 v5.9.0
+	github.com/jackc/pgx/v5 v5.9.2
 	github.com/peterldowns/pgtestdb v0.1.1
 	github.com/peterldowns/pgtestdb/migrators/golangmigrator v0.1.1
 	github.com/stretchr/testify v1.11.1
